@@ -19,3 +19,7 @@ Este projeto é um backend desenvolvido em TypeScript, utilizando a arquitetura 
 
 ## Endpoints
 - `POST /api/auth/login`: Realiza o login do usuário. Retorna um token JWT.
+
+LICENSA:
+
+Autor: Lucas Rodrigues Gouveia Lopes
